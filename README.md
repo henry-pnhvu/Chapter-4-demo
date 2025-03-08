@@ -41,7 +41,7 @@ The ZIP file `4.2 - Join and Bin SAS data.zip` contains the following folders:
 - Reads data from `03. Analysed Result/01. Data Unanalysed` and aligns them.
 - Outputs:
   - Aligned and combined SAS data → `03. Analysed Result/02. Data Joined`
-  - Alignment factor (written in data file headers of `03. Analysed Result/01. Data Unanalysed`)
+  - Alignment factor (written in headers of data files in `03. Analysed Result/01. Data Unanalysed`)
   - Aligned data plots → `03. Analysed Result/bb. Figures Aligned Data`
 
 #### (iii) `cc_bin_SAS_data.py` – Binning Data
